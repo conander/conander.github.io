@@ -18,8 +18,11 @@ As a student in Oregon State's Geology and GIS programs, I wish to gain insight 
 
 # Education
 
-## Oregon State University (City, State)
-[Oregon State University's][OSU] Mission Statement:
+## Oregon State University (Corvallis, Oregon)
+
+![Oregon State Beavers](http://oregonstate.edu/helpdocs/sites/default/files/beaver.png)
+
+[OSU][OSU] Mission Statement:
 > As a land grant institution commited to teaching, research, outreach and engagement, Oregon State University promotes economic, social, cultural and environmental progress for the people of Oregon, the nation and the world.
 
 #### Studies:
